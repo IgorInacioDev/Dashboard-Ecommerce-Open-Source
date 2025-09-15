@@ -1,0 +1,250 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Cor (product.metafields.shopify.color-pattern),Acabamento cosmético (product.metafields.shopify.cosmetic-finish),Tipo de dispensador (product.metafields.shopify.dispenser-type),Tonalidade da maquiagem (product.metafields.shopify.makeup-color-shade),Características da maquiagem (product.metafields.shopify.makeup-features),Ocasião (product.metafields.shopify.occasion),Ficha técnica do produto (product.metafields.shopify.product-form),Temporada (product.metafields.shopify.season),Tom de pele (product.metafields.shopify.skin-tone),Subtom de pele (product.metafields.shopify.skin-undertone),Adequado para tipo de pele (product.metafields.shopify.suitable-for-skin-type),Textura (product.metafields.shopify.texture),Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Status
+iluminador-sheglam,ILUMINADOR SHEGLAM,"<p><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong><span>: acabamento multidimensional com brilho reflexivo azul-esverdeado, ideal para criar pontos de luz sofisticados, como topo do nariz e arco do cupido.</span></p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup > Highlighters & Luminizers,"","",true,Tonalidade da maquiagem,rose,product.metafields.shopify.makeup-color-shade,,,,,,,,0.0,shopify,25,deny,manual,69.90,89.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/069BD002-45A6-4B64-B8AF-DCFF464ED169.jpg?v=1750280865,1,"",false,,,,,,,,,,,,,,,luminoso,,rose; branco; dourado-claro,,,,,,,,,,kg,,,active
+iluminador-sheglam,,,,,,,,,branco,,,,,,,,,0.0,shopify,25,deny,manual,69.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+iluminador-sheglam,,,,,,,,,dourado-claro,,,,,,,,,0.0,shopify,25,deny,manual,69.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+contorno-sheglam,CONTORNO SHEGLAM,"<p> </p>
+<li data-start=""130"" data-end=""208"">
+<p data-start=""132"" data-end=""208""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: bastão líquido com aplicador tipo esponja, textura cremosa que se funde facilmente, acabamento matte veludo. Ideal para definição/contorno natural com longa duração.</span></p>
+</li>
+<li data-start=""209"" data-end=""287"">
+<p data-start=""211"" data-end=""287""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""12"" data-is-only-node="""">Destaque</strong>: o <em data-start=""16"" data-end=""28"">Cool-Toned</em> (cinza neutro) evita aparência alaranjada e é comparado a marcas high‑end por sua pigmentação e durabilidade.</span></p>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Makeup > Face Makeup > Foundations & Concealers,"","",true,Cor,marrom-claro,product.metafields.shopify.makeup-color-shade,,,,,,,,0.0,shopify,25,deny,manual,69.90,79.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/4C1B63B8-5512-4ABA-8B66-B2A221936480.jpg?v=1750279566,1,"",false,,,,,,,,,,,,,,,fosco-4,vareta-2,marrom-claro; bege-2; marrom-cinza; marrom-escuro; castanho-2; marrom-rosado,alta-pigmentacao-4; facil-de-aplicar-3,,liquido-2,,todos-os-tons-de-pele-2,fria-1; quente-2,todos-os-tipos-de-pele-2,,,kg,,,active
+contorno-sheglam,,,,,,,,,bege-2,,,,,,,,,0.0,shopify,25,deny,manual,69.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+contorno-sheglam,,,,,,,,,marrom-cinza,,,,,,,,,0.0,shopify,25,deny,manual,69.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+contorno-sheglam,,,,,,,,,marrom-escuro,,,,,,,,,0.0,shopify,25,deny,manual,69.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+contorno-sheglam,,,,,,,,,castanho-2,,,,,,,,,0.0,shopify,25,deny,manual,69.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+contorno-sheglam,,,,,,,,,marrom-rosado,,,,,,,,,0.0,shopify,25,deny,manual,69.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+blush-sheglam,BLUSH SHEGLAM,"<p> </p>
+<li data-start=""134"" data-end=""212"">
+<p data-start=""136"" data-end=""212""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""21"" data-is-only-node="""">Cores disponíveis</strong>: mais de 3 opções (tons rose, pêssego, vermelho)</span> </p>
+</li>
+<li data-start=""213"" data-end=""291"">
+<p data-start=""215"" data-end=""291""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: fórmula líquida com acabamento matte, altamente pigmentada e fácil de esfumar; formato esponjinha com vitamina C → efeito “misturável como manteiga”</span> </p>
+</li>
+<li data-start=""292"" data-end=""370"">
+<p data-start=""294"" data-end=""370""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""19"" data-is-only-node="""">Tom de destaque</strong>: <em data-start=""21"" data-end=""32"">Love Cake</em> (rosa quente) e <em data-start=""49"" data-end=""60"">Hush Hush</em> (rosado suave), muito elogiados por fãs em resenhas</span></p>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Makeup > Lip Makeup > Lipsticks,"","",true,Cor,rosa-avermelhado,product.metafields.shopify.color-pattern,,,,,,,,0.0,shopify,28,deny,manual,59.90,79.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/9502545E-AA0E-47CC-933A-05C09EC682D3.jpg?v=1750278931,1,"",false,,,,,,,,,,,,,,rosa-avermelhado; rosa-alaranjado; rosa-quente; rosa,fosco-4,,,alta-pigmentacao-4; facil-de-aplicar-3,,,,,,,cremoso-4,,kg,,,active
+blush-sheglam,,,,,,,,,rosa-alaranjado,,,,,,,,,0.0,shopify,50,deny,manual,59.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+blush-sheglam,,,,,,,,,rosa-quente,,,,,,,,,0.0,shopify,50,deny,manual,59.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+blush-sheglam,,,,,,,,,rosa,,,,,,,,,0.0,shopify,58,deny,manual,59.90,79.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+escova-secadora-philco,ESCOVA SECADORA - PHILCO,"<p><span>ESCOVA SECADORA PHILCO SOFT ADVANCE PES14 – BELEZA, PRATICIDADE E ESTILO EM UM SÓ TOQUE! 💖 Chega de complicação! A Philco Soft Advance PES14 é a combinação perfeita entre design sofisticado e tecnologia avançada para deixar seu cabelo impecável sem esforço. 🌟 DESIGN MODERNO E ERGONÔMICO ✨ Formato elegante e confortável para manuseio fácil. ✨ Cores sofisticadas que combinam com seu estilo. ✨ Compacta e leve para levar na bolsa ou mala sem ocupar espaço. 💨 PRATICIDADE ABSOLUTA – SEM SALÃO, SEM ESPERA! 🔥 4 em 1: Seca, alisa, modela e dá volume com um único movimento. 🔥 Bivolt manual – perfeita para viagens e qualquer ocasião. 🔥 Cordão giratório de 1,80m para liberdade total ao pentear. ✨ CABELO IMPECÁVEL EM MINUTOS! 💎 Revestimento em cerâmica – aquece rápido e protege os fios. 💎 Tecnologia Infrared – sela cutículas e mantém a hidratação natural. 💎 Cerdas de Javali macias – brilho e maciez com menos agressão. 💎 Íons Tourmaline – adeus frizz, olá cabelo sedoso! 🚀 Transforme seu dia com mais estilo e praticidade! 💖 Garanta já a sua Philco Soft Advance PES14 e tenha cabelo de capa de revista SEM esforço! </span></p>",Minha loja,Health & Beauty > Personal Care > Hair Care > Hair Styling Tools > Combs & Brushes,"","",true,Cor,Rosa e preto,,,,,,,,,0.0,shopify,100,deny,manual,139.90,189.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/AD5B1BE7-A731-435D-BFAE-A8EA19305071.jpg?v=1750278280,1,"",false,,,,,,,,,,,,,,bege; branco,,,,,,,,,,,,,kg,,,active
+escova-secadora-philco,,,,,,,,,Dourado e branco,,,,,,,,,0.0,shopify,100,deny,manual,139.90,189.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/7D9784E5-92E1-4E81-BE48-F18A67A5518F.jpg?v=1750278280,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+escova-secadora-5-em-1-inova,ESCOVA SECADORA 5 em 1 - INOVA,"<p><span>ATENÇÃO: APARELHO DE 110V Ferramenta de estilo de secador de cabelo 5 em 1: O secador de escova de ar quente para mulheres vem com cinco fixações de escova intercambiáveis que tornam o alisamento, ondulação, combinação de secagem por sopro com escovas de estilo, pode caber em diferentes comprimentos de cabelo e criar Estilos diferentes. * Seguro E CONFORTÁVEL: Nosso alisador de ar quente apresenta tecnologia avançada de íons negativos e um revestimento cerâmico que evita frizz e eletricidade estática. Graças a uma combinação de pinos de nylon e cerdas tufted, nossa escova de secador de cabelo minimiza emaranhados e quebras enquanto ajuda a proporcionar uma massagem confortável no couro cabeludo. * Design ajustável: O secador de cabelo tem capacidade de 1000W/220v e oferece controle de temperatura de 3 velocidades para lhe dar melhor controle ao pentear. Também é perfeito para uso em diferentes estações e adequado para todos os tipos de cabelo, ajudando você a obter facilmente o penteado que sempre quis. * Leve E PORTÁTIL: Este modelador de envoltório de ar usa apenas ar para atrair e envolver os cabelos. Você não precisa se preocupar com a dor do braço. É muito leve e portátil, fácil de operar, adequado para uso doméstico ou em viagens. * Conveniente e portátil: Esta escova de ar de cabelo é leve, fácil de transportar, fácil de manusear e perfeita para o seu pulso. Deixe você criar resultados dignos de salão. Proporciona versatilidade modeladora e ótimos resultados para todos os tipos de cabelo.</span></p>
+<p> </p>
+<p><span>Categorias de produto: máquina de desenrolar, máquina de alisamento Material do Forro: Cerâmica Tamanho: 13,2 x 3,0 polegadas Comprimento do cabo de alimentação: cerca de 2m de rotação, 360 graus Peso líquido: cerca de 1,3 lb Configurações de calor: 0: Nível 1: Temperatura moderada para secagem suave e estilo Nível 2: Alto calor para secagem rápida e estilo Nível 3: Alta temperatura para secagem rápida e estilo Descrever: Baixa velocidade e baixa em calorias, o Médio é de baixa velocidade e médio em calorias. Alta velocidade é alta velocidade e alta temperatura. Não há vento fresco. Então baixa velocidade é a mesma de alta velocidade, velocidade média é inferior a alta velocidade. Escova de ar quente intercambiável 5 em 1 Forte poder e ruído inferior, fácil de travar em seu estilo. Secagem rápida! Conceito de presente: Presente de aniversário perfeito para o dia das mães namoradas namorada e esposa da mãe. É muito adequado para família, viagens, férias e uso de escritório, mochila, mala, carteira e bolsa de fitness. ATENÇÃO: ENVIO ALEATÓRIO DE CORES CONFORME DISPONIBILIDADE EM ESTOQUE ENTRE (PRETA, ROSA CLARA, ROSA ESCURO, E LILÁS) O pacote inclui: 2 * modeladores de cabelo 1 * secador de cabelo 1 * escova de cabelo 1 * pente quente 1 * suporte 1 * manual</span></p>",Minha loja,,"","",true,Cor,Preto,,,,,,,,,0.0,shopify,100,deny,manual,99.90,139.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/6DF7B6FA-AB74-49FD-971C-4531C07B8CFE.jpg?v=1750277848,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+escova-secadora-5-em-1-inova,,,,,,,,,Rosa,,,,,,,,,0.0,shopify,100,deny,manual,99.90,139.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/5EBADCC9-42BA-411B-BBA3-3DF6E0D8C7E4.jpg?v=1750277848,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+escova-secadora-5-em-1-inova,,,,,,,,,Dourado,,,,,,,,,0.0,shopify,100,deny,manual,99.90,139.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/3034F733-BA89-4FE5-BA35-5823D0A885BA.jpg?v=1750277848,3,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+escova-secadora-5-em-1-inova,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/124226DF-A5E1-471E-80C1-B0ED141A0998.jpg?v=1750277848,4,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+escova-secadora-5-em-1-inova,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/5C9D3D0E-892D-40EC-9B45-B6623FEB3216.jpg?v=1750278169,5,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+gloss-kiko-milano,GLOSS KIKO MILANO,"",Minha loja,,"","",true,Cor,17,,,,,,,,,0.0,shopify,84,deny,manual,79.90,89.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/90BE3B6E-88D6-43F3-954C-1AD9CF7ED487.jpg?v=1750276342,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+gloss-kiko-milano,,,,,,,,,41,,,,,,,,,0.0,shopify,87,deny,manual,79.90,89.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/61A2410C-CD94-4EBE-BC02-24A8CB993F28.jpg?v=1750276342,2,"",,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+gloss-kiko-milano,,,,,,,,,05,,,,,,,,,0.0,shopify,42,deny,manual,79.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+gloss-kiko-milano,,,,,,,,,43,,,,,,,,,0.0,shopify,48,deny,manual,79.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+gloss-kiko-milano,,,,,,,,,25,,,,,,,,,0.0,shopify,50,deny,manual,79.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+gloss-kiko-milano,,,,,,,,,003,,,,,,,,,0.0,shopify,52,deny,manual,79.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+gloss-kiko-milano,,,,,,,,,32,,,,,,,,,0.0,shopify,76,deny,manual,79.90,89.90,true,false,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,
+body-splash-shimmer-coconut-passion-250ml-victoria-s-secret,BODY SPLASH SHIMMER COCONUT PASSION - 250ml Victoria’s Secret,"<p><strong data-start=""959"" data-end=""970"">Acordes</strong><span>: coco + clima de ilha, areia quente </span><br data-start=""1044"" data-end=""1047""><strong data-start=""1047"" data-end=""1060"">Descrição</strong><span>: névoa de brilho formada por coco cremoso, versão limitada.</span></p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,109.90,119.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/CB943653-344A-4C39-95B3-3CEB66F46B24.jpg?v=1750276128,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-shimmer-aqua-kiss-250ml-victoria-s-secret,BODY SPLASH SHIMMER AQUA KISS - 250ml Victoria’s Secret,"",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,109.90,119.90,true,true,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/D324A9E2-B47B-450B-9013-65542620E904.jpg?v=1750276006,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-shimmer-love-spell-250ml-victoria-s-secret,BODY SPLASH SHIMMER LOVE SPELL - 250ml Victoria’s Secret,"<p data-start=""702"" data-end=""863""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Uma mistura irresistível de flor de cerejeira e pêssego fresco, criando uma fragrância romântica e encantadora.</span></p>
+<p data-start=""865"" data-end=""1026""> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,109.90,119.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/00DFACBC-0D92-4D89-B155-7B5B9E1F8B49.jpg?v=1750275890,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-shimmer-velvet-petals-250ml-victoria-s-secret,BODY SPLASH SHIMMER VELVET PETALS - 250ml Victoria’s Secret,"<p data-start=""536"" data-end=""700""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Combinando flores exuberantes com um toque de amêndoa açucarada, esta fragrância é delicada e feminina.</span></p>
+<p data-start=""702"" data-end=""863""> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,109.90,119.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/5048E15C-B2B0-42EB-ADD8-D16894D5D2CC.jpg?v=1750275762,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-bare-vanilla-shimmer-250ml-victoria-s-secret,BODY SPLASH BARE VANILLA SHIMMER - 250ml Victoria’s Secret,"<p><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Uma mistura envolvente de baunilha cremosa e cashmere suave, oferecendo um toque doce e aconchegante.</span><span></span></p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,109.90,119.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/9AEB252E-14D5-4215-B2C4-186E370870A6.jpg?v=1750275563,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-shimmer-pure-seduction-250ml-victoria-s-secret,BODY SPLASH SHIMMER PURE SEDUCTION - 250ml Victoria’s Secret,"<p><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Uma fragrância frutada com notas de ameixa suculenta e frésia esmagada, proporcionando um brilho radiante.</span><span></span></p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,109.90,119.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/E5EE2565-DFC2-414A-B075-B637412B5763.jpg?v=1750275469,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-temptation-250ml-victoria-s-secret,BODY SPLASH TEMPTATION - 250ml Victoria’s Secret,"<h3 data-start=""1174"" data-end=""1198""><strong data-start=""1181"" data-end=""1198"">Temptation</strong></h3>
+<ul data-start=""1199"" data-end=""1339"">
+<li data-start=""1199"" data-end=""1240"">
+<p data-start=""1201"" data-end=""1240""><strong data-start=""1201"" data-end=""1215"">Descrição:</strong> Frutado fresco e ousado.</p>
+</li>
+<li data-start=""1241"" data-end=""1277"">
+<p data-start=""1243"" data-end=""1277""><strong data-start=""1243"" data-end=""1253"">Notas:</strong> Maçã e flor do deserto.</p>
+</li>
+<li data-start=""1278"" data-end=""1339"">
+<p data-start=""1280"" data-end=""1339""><strong data-start=""1280"" data-end=""1293"">Destaque:</strong> Doce na medida certa, ótimo para o dia a dia.</p>
+</li>
+</ul>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/A81F2DCC-19F9-48A6-981D-51E8010D3AF3.jpg?v=1750275326,1,"",false,,,,,,,,,,,,,,,,,,,diariamente,,,,,,,,kg,,,active
+body-splash-bare-vanilla-250ml-victoria-s-secret,BODY SPLASH BARE VANILLA - 250ml Victoria’s Secret,"<ul data-start=""228"" data-end=""503"">
+<li data-start=""228"" data-end=""503"">
+<p data-start=""230"" data-end=""503""><strong data-start=""230"" data-end=""254"">Descrição oficial</strong>:<br data-start=""255"" data-end=""258"">Um gourmand elegante, cremoso e envolvente. A mistura perfeita entre uma baunilha quente e um almíscar suave, criando um efeito “segunda pele” adocicada e confortável. É sensual, mas sem exageros, ótimo para climas amenos ou dias de aconchego.</p>
+</li>
+</ul>
+<hr data-start=""505"" data-end=""508"">
+<h3 data-start=""510"" data-end=""531""> Notas Olfativas</h3>
+<ul data-start=""533"" data-end=""846"">
+<li data-start=""533"" data-end=""598"">
+<p data-start=""535"" data-end=""566""><strong data-start=""535"" data-end=""563"">Nota principal (coração)</strong>:</p>
+<ul data-start=""569"" data-end=""598"">
+<li data-start=""569"" data-end=""598"">
+<p data-start=""571"" data-end=""598""><strong data-start=""571"" data-end=""596"">Vanilla rica e quente</strong></p>
+</li>
+</ul>
+</li>
+</ul>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/5791EBE8-A05F-4CAF-9E68-D05D0BD62358.jpg?v=1750273378,1,"",false,,,,,,,,,,,,,,,,,,,diariamente,,,,,,,,kg,,,active
+body-splash-strawberries-champagne-250ml-victoria-s-secret,BODY SPLASH STRAWBERRIES & CHAMPAGNE - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""683"" data-end=""766"">
+<p data-start=""685"" data-end=""766""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Um body splash festivo e levemente digital, que mistura morango com champanhe espumante. No rastro, flores suaves e almíscar completam o perfil, com sensação fresca.</span></p>
+</li>
+<li data-start=""767"" data-end=""1068"">
+<p data-start=""769"" data-end=""810""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""29"" data-is-only-node="""">Notas (pirâmide olfativa)</strong>:</span></p>
+<ul data-start=""813"" data-end=""1068"">
+<li data-start=""813"" data-end=""896"">
+<p data-start=""815"" data-end=""896""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Morango, groselha preta – sugere um morango natural, sem exagero enjoativo</span></p>
+</li>
+<li data-start=""899"" data-end=""982"">
+<p data-start=""901"" data-end=""982""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Champagne, jasmim, camomila</span></p>
+</li>
+<li data-start=""985"" data-end=""1068"">
+<p data-start=""987"" data-end=""1068""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Aloe vera, sândalo, almíscar, baunilha ou açúcar caramelizado</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/AD1D6FD1-54C4-4A0A-84A8-CDF1E8B1FA2A.jpg?v=1750274321,1,"",false,,,,,,,,,,,,,,,,,,,ocasiao-especial,,,,,,,,kg,,,active
+body-splash-pear-glace-250ml-victoria-s-secret,BODY SPLASH PEAR GLACÉ - 250ml Victoria’s Secret,"<h3 data-start=""1024"" data-end=""1047""><strong data-start=""1031"" data-end=""1045"">Pear Glacé</strong></h3>
+<ul data-start=""1048"" data-end=""1521"">
+<li data-start=""1048"" data-end=""1131"">
+<p data-start=""1050"" data-end=""1131""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Frutado e verde, aberto e suculento, perfeito para dias quentes e ensolarados. Uma saída fresca de pera com nuances verdes florais ou aloe.</span> </p>
+</li>
+<li data-start=""1132"" data-end=""1307"">
+<p data-start=""1134"" data-end=""1175""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""9"" data-is-only-node="""">Notas</strong> (de usuários e fragrântica):</span></p>
+<ul data-start=""1178"" data-end=""1307"">
+<li data-start=""1178"" data-end=""1221"">
+<p data-start=""1180"" data-end=""1221""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Pera açucarada e frescor verde</span></p>
+</li>
+<li data-start=""1224"" data-end=""1307"">
+<p data-start=""1226"" data-end=""1307""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Cassis, aloe vera, violeta, camomila, leve melão</span></p>
+</li>
+</ul>
+</li>
+</ul>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/5040AC4C-A74E-473B-A8C6-A75CC1774A97.jpg?v=1750274168,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-aqua-kiss-250ml-victoria-s-secret,BODY SPLASH AQUA KISS - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""573"" data-end=""656"">
+<p data-start=""575"" data-end=""656""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Refrescante e envolvente, com aroma aquático-floral que lembra o frescor pós-chuvoso. Ideal para o dia a dia em climas quentes, com toque limpo e relaxante.</span> </p>
+</li>
+<li data-start=""657"" data-end=""803"">
+<p data-start=""659"" data-end=""671""><strong data-start=""659"" data-end=""668"">Notas</strong>:</p>
+<ul data-start=""674"" data-end=""803"">
+<li data-start=""674"" data-end=""717"">
+<p data-start=""676"" data-end=""717""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: “Chuva beijada”</span></p>
+</li>
+<li data-start=""720"" data-end=""803"">
+<p data-start=""722"" data-end=""803""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Frésia, margarida</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/2F28EB80-C15C-4D9F-A0F3-2E9339BC4C1C.jpg?v=1750274091,1,"",false,,,,,,,,,,,,,,,,,,,diariamente,,,,,,,,kg,,,active
+body-splash-amber-romance-250ml-victoria-s-secret,BODY SPLASH AMBER ROMANCE - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""71"" data-end=""150"">
+<p data-start=""73"" data-end=""150""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Uma fragrância quente e acolhedora, sexy e elegante. Combina o toque doce e cremoso da baunilha com âmbar e sândalo, criando um rastro suave, ideal para climas mais amenos ou ocasiões íntimas.</span></p>
+</li>
+<li data-start=""151"" data-end=""335"">
+<p data-start=""153"" data-end=""165""><strong data-start=""153"" data-end=""162"">Notas</strong>:</p>
+<ul data-start=""168"" data-end=""335"">
+<li data-start=""168"" data-end=""209"">
+<p data-start=""170"" data-end=""209""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Cereja preta amarga</span></p>
+</li>
+<li data-start=""212"" data-end=""253"">
+<p data-start=""214"" data-end=""253""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Creme anglais</span></p>
+</li>
+<li data-start=""256"" data-end=""335"">
+<p data-start=""258"" data-end=""335""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Baunilha, sândalo, âmbar profundo</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/E8950BC9-F9B3-4CB4-B06F-08DD37A987CB.jpg?v=1750273940,1,"",false,,,,,,,,,,,,,,,,,,,ocasiao-especial,,,,,,,,kg,,,active
+body-splash-midnight-bloom-250ml-victoria-s-secret,BODY SPLASH MIDNIGHT BLOOM - 250ml Victoria’s Secret,"<ul data-start=""1446"" data-end=""1760"">
+<li data-start=""1446"" data-end=""1529"">
+<p data-start=""1448"" data-end=""1529""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Floral noturno com toque de madeira cremosa e nuances suaves de açúcares; ideal para uso noturno e clima mais frio.</span> </p>
+</li>
+<li data-start=""1530"" data-end=""1760"">
+<p data-start=""1532"" data-end=""1544""><strong data-start=""1532"" data-end=""1541"">Notas</strong>:</p>
+<ul data-start=""1547"" data-end=""1760"">
+<li data-start=""1547"" data-end=""1590"">
+<p data-start=""1549"" data-end=""1590""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Moonflower, Airy Pink Freesia, Berry Bouquet</span></p>
+</li>
+<li data-start=""1593"" data-end=""1676"">
+<p data-start=""1595"" data-end=""1676""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Moon Flower (datura), Whipped </span></p>
+</li>
+<li data-start=""1679"" data-end=""1760"">
+<p data-start=""1681"" data-end=""1760""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Creamy Woods, Amber, Musk</span> </p>
+</li>
+</ul>
+</li>
+</ul>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/CABBC153-C21F-4162-838A-11528EC18E91.jpg?v=1750273771,1,"",false,,,,,,,,,,,,,,,,,,,,,inverno,,,,,,kg,,,active
+body-splash-velvet-petals-250ml-victoria-s-secret,BODY SPLASH VELVET PETALS - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""1137"" data-end=""1220"">
+<p data-start=""1139"" data-end=""1220""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Floral suave com leve doçura de amêndoas e baunilha; sofisticado e acolhedor, não enjoa facilmente.</span></p>
+</li>
+<li data-start=""1221"" data-end=""1411"">
+<p data-start=""1223"" data-end=""1235""><strong data-start=""1223"" data-end=""1232"">Notas</strong>:</p>
+<ul data-start=""1238"" data-end=""1411"">
+<li data-start=""1238"" data-end=""1281"">
+<p data-start=""1240"" data-end=""1281""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Sparkling Starfruit, Sweet Almond Glaze</span></p>
+</li>
+<li data-start=""1284"" data-end=""1327"">
+<p data-start=""1286"" data-end=""1327""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Peony, Vanilla</span></p>
+</li>
+<li data-start=""1330"" data-end=""1411"">
+<p data-start=""1332"" data-end=""1411""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Almond, Amber</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/10030452-3C65-4DFD-9BE7-37E6CAF68722.jpg?v=1750273710,1,"",false,,,,,,,,,,,,,,,,,,,,,,,,,,,kg,,,active
+body-splash-pure-seduction-250ml-victoria-s-secret,BODY SPLASH PURE SEDUCTION - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""749"" data-end=""832"">
+<p data-start=""751"" data-end=""832""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Frutado intenso e sedutor; mistura entre “plum punch” e floral suave, perfeito para uso cotidiano ou para atrair elogios.</span> </p>
+</li>
+<li data-start=""833"" data-end=""1103"">
+<p data-start=""835"" data-end=""847""><strong data-start=""835"" data-end=""844"">Notas</strong>:</p>
+<ul data-start=""850"" data-end=""1103"">
+<li data-start=""850"" data-end=""933"">
+<p data-start=""852"" data-end=""933""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Casaba Melon (melão), Red Plum, Vanilla</span></p>
+</li>
+<li data-start=""936"" data-end=""1019"">
+<p data-start=""938"" data-end=""1019""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Morning Dew Cyclamen, Freesia</span> </p>
+</li>
+<li data-start=""1022"" data-end=""1103"">
+<p data-start=""1024"" data-end=""1103""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Sheer Musk, Rose Wood, Chamomile</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/DDA356AF-6D11-489F-940B-50BAA0C26B34.jpg?v=1750273610,1,"",false,,,,,,,,,,,,,,,,,,,diariamente,,,,,,,,kg,,,active
+body-splasg-love-spell-250ml-victoria-s-secret,BODY SPLASH LOVE SPELL - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""366"" data-end=""445"">
+<p data-start=""368"" data-end=""445""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""13"" data-is-only-node="""">Descrição</strong>: Um clássico vibrante e nostálgico desde 1999, leve e frutado-floral, associado a boas memórias e leveza no dia a dia.</span></p>
+</li>
+<li data-start=""446"" data-end=""714"">
+<p data-start=""448"" data-end=""460""><strong data-start=""448"" data-end=""457"">Notas</strong>:</p>
+<ul data-start=""463"" data-end=""714"">
+<li data-start=""463"" data-end=""544"">
+<p data-start=""465"" data-end=""544""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Peach, Cherry Blossom, Red Apple, grapefruit</span> </p>
+</li>
+<li data-start=""547"" data-end=""630"">
+<p data-start=""549"" data-end=""630""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Lilac, Jasmine, Lily‑of‑the‑Valley</span> </p>
+</li>
+<li data-start=""633"" data-end=""714"">
+<p data-start=""635"" data-end=""714""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Musk, Tamarind, White Woods</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/3DC821F1-2BE0-4362-9146-EF514B490634.jpg?v=1750273491,1,"",false,,,,,,,,,,,,,,,,,,,diariamente,,,,,,,,kg,,,active
+body-splash-coconut-passion-250ml-victoria-s-secret,BODY SPLASH COCONUT PASSION - 250ml Victoria’s Secret,"<p> </p>
+<li data-start=""73"" data-end=""152"">
+<p data-start=""75"" data-end=""152""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"">Fragrância quente, ensolarada e sensual, perfeita para o verão. Uma mistura equilibrada de coco e baunilha com um toque floral. </span></p>
+</li>
+<li data-start=""153"" data-end=""335"">
+<p data-start=""155"" data-end=""167""><strong data-start=""155"" data-end=""164"">Notas</strong>:</p>
+<ul data-start=""170"" data-end=""335"">
+<li data-start=""170"" data-end=""211"">
+<p data-start=""172"" data-end=""211""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Topo</strong>: Blackberry, Coconut Milk</span></p>
+</li>
+<li data-start=""214"" data-end=""255"">
+<p data-start=""216"" data-end=""255""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""11"" data-is-only-node="""">Coração</strong>: Wild Lily, Raspberry Blossom, Lily‑of‑the‑Valley</span></p>
+</li>
+<li data-start=""258"" data-end=""335"">
+<p data-start=""260"" data-end=""335""><span class=""relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out""><strong data-start=""0"" data-end=""8"" data-is-only-node="""">Base</strong>: Sugared Amber, Warm Sand, Vanilla, Chamomile, Aloe Vera</span></p>
+</li>
+</ul>
+</li>
+<p> </p>",Minha loja,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Body Mists,"","",true,Title,Default Title,,,,,,,,,0.0,shopify,100,deny,manual,99.90,109.90,true,false,,https://cdn.shopify.com/s/files/1/0750/2666/1589/files/63EDAFA6-89BE-4B90-ABBA-C48DE902ED2A.jpg?v=1750272115,1,"",false,,,,,,,,,,,,,,,,,,,,,verao,,,,,,kg,,,active
